@@ -1,4 +1,4 @@
-# Valorant Aim Soft Aimer Cheat
+# Valorant Aim Soft Aimer
 
 ## Overview
 
