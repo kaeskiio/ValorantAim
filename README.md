@@ -43,7 +43,3 @@ This project demonstrates the integration of software and hardware to create a s
 ## Ethical Considerations
 
 While this project demonstrates technical proficiency, it is important to understand the ethical implications of creating and using cheats in games. Cheating undermines fair play, affects the gaming experience of others, and is often against the terms of service of the game. This project should be used responsibly and with an understanding of these considerations.
-
-## Conclusion
-
-This project showcases the integration of software and hardware to create a functional application in the context of gaming. It provides a practical example of how programming skills can be applied to real-world scenarios, while also highlighting the importance of ethical behavior in technology development.
